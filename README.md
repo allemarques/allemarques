@@ -19,7 +19,7 @@
 <div> 
 
   <a href="https://instagram.com/allemarques_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "alessandro_206@live.com"><img alt="Static Badge" src="https://img.shields.io/badge/-outlook-%2523333%3F?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=gray"></a>
+  <a href = "mailto:alessandro_206@live.com"><img alt="Static Badge" src="https://img.shields.io/badge/-outlook-%2523333%3F?style=for-the-badge&logo=microsoftoutlook&logoColor=white&color=gray"></a>
   <a href="https://www.linkedin.com/in/alessandro-marques-677839238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/allemarques/allemarques/blob/output/github-contribution-grid-snake.svg)
